@@ -14,16 +14,24 @@
     <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">  
       <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <a/>
+    <a target="_blank" href="https://react.dev/">	  
       <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <a/>
     <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
       <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <a/>
     <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">	
       <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <a/>
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <a target="_blank" href="[https://react.dev/](https://www.w3schools.com/c/c_intro.php)">	
+      <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <a/>
+    <a target="_blank" href="https://nodejs.org/en/about">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <a/>
+     <a target="_blank" href="https://www.w3schools.com/cpp/cpp_intro.asp">
+      <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+     <a/>  
    </div>
 </div>
   
