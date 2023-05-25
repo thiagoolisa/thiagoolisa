@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias</h1>
+    <h1 align="center">Tecnologias estudadas:</h1>
     <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">  
       <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <a/>
