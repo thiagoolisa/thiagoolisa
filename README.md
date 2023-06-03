@@ -1,7 +1,7 @@
 ## Bom dia, boa tarde e boa noite!
 
 <div>
-  <img  widht="270px" height="150px" src="https://github-readme-stats.vercel.app/api?username=thiagoolisa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img  widht="270px" height="145px" src="https://github-readme-stats.vercel.app/api?username=thiagoolisa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" widht="100px" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoolisa&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
